@@ -1,0 +1,2 @@
+# OgrenciBasariHesaplama
+ Ögrenci Başarı Hesaplama
